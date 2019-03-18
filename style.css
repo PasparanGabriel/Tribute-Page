@@ -1,0 +1,18 @@
+#image {
+    display: block; 
+    height: auto; 
+    margin: auto;
+    max-width: 100%;
+}
+
+#img-caption {
+    font-family: Arial;
+    font-size: 1.5em;
+}
+
+#tribute-info {
+    height: auto;
+    margin: auto;
+    font-family: Arial;
+    font-size: 1.5em;
+}
